@@ -24,7 +24,8 @@
         android:gravity="center"
         android:paddingTop="30dp"
         android:text="ReciclaBem"
-        android:textColor="#CBD0D8"
+        android:fontFamily="@font/monomaniacine"
+        android:textColor="#FFF8DE"
         android:textSize="50sp"
         android:textStyle="bold" />
 
@@ -32,7 +33,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="10dp" />
+        android:layout_marginTop="50dp" />
 
 
 </LinearLayout>
